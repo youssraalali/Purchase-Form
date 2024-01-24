@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: YA-Project32, Configuration: Debug Any CPU ------
+1>  YA-Project32 -> C:\Users\HP\source\repos\YA-Project32\YA-Project32\bin\YA-Project32.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
